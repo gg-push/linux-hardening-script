@@ -27,12 +27,12 @@ This Bash script is designed to enhance the security of Debian-based Linux syste
 
 1. **Make the Script Executable**:
    ```bash
-   chmod +x linux-harden.sh
+   chmod +x linux_harden.sh
    ```
 
 2. **Run the Script as Root**:
    ```bash
-   sudo ./linux-harden.sh
+   sudo ./linux_harden.sh
    ```
 
 ## Troubleshooting
